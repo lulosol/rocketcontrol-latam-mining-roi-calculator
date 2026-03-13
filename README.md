@@ -229,7 +229,7 @@ Tests cover:
 
 ## About
 
-Built by [Rocket Control LATAM](https://rocketcontrol-latam.ai), the exclusive regional partner for [TAIGA Dynamics](https://taiga-dynamics.com) AI-powered mining optimization in Latin America.
+Built by [Rocket Control LATAM](https://rocketcontrol-latam.ai), the exclusive regional partner for TAIGA Dynamics AI-powered mining optimization in Latin America.
 
 ## License
 

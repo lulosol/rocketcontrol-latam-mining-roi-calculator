@@ -1,6 +1,6 @@
-# Mining ROI Calculator — TAIGA Dynamics AI Optimization
+# Mining ROI Calculator — Circuito AI Optimization
 
-Open-source calculation engine behind the [Rocket Control LATAM ROI Calculator](https://rocketcontrol-latam.ai/en/calculator/). Estimates the incremental revenue and profit a mining operation can capture by deploying **TAIGA Dynamics** AI optimization on grinding and flotation circuits.
+Open-source calculation engine behind the [Circuito AI ROI Calculator](https://circuito.ai/en/calculator/). Estimates the incremental revenue and profit a mining operation can capture by deploying **Circuito AI** optimization on grinding and flotation circuits.
 
 ## Quick Start
 
@@ -34,7 +34,7 @@ The calculator models two independent value streams from AI optimization:
 1. **Grinding optimization** — AI increases mill throughput, processing more ore with the same equipment
 2. **Flotation optimization** — AI improves mineral recovery rate, capturing more metal from each ton
 
-These are combined into a total annual benefit, then compared against TAIGA's cost structure to produce payback estimates.
+These are combined into a total annual benefit, then compared against Circuito AI's cost structure to produce payback estimates.
 
 ---
 
@@ -42,7 +42,7 @@ These are combined into a total annual benefit, then compared against TAIGA's co
 
 ### Grinding Circuit — Throughput Improvement
 
-TAIGA Dynamics AI optimizes grinding parameters (mill speed, feed rate, water addition, classifier settings) to increase throughput while maintaining target grind size.
+Circuito AI optimizes grinding parameters (mill speed, feed rate, water addition, classifier settings) to increase throughput while maintaining target grind size.
 
 **Benchmark improvements (from field deployments):**
 
@@ -72,7 +72,7 @@ Grinding profit = Grinding revenue × Contribution margin
 
 ### Flotation Circuit — Recovery Improvement
 
-TAIGA Dynamics AI optimizes flotation parameters (reagent dosage, air flow, froth depth, cell levels) to increase mineral recovery.
+Circuito AI optimizes flotation parameters (reagent dosage, air flow, froth depth, cell levels) to increase mineral recovery.
 
 **Benchmark improvement:** +1.0 percentage point recovery uplift (default)
 
@@ -102,7 +102,7 @@ The calculator handles four pricing conventions used across the mining industry:
 
 ### Payback Analysis
 
-The calculator estimates three cost phases of a TAIGA deployment:
+The calculator estimates three cost phases of a Circuito AI deployment:
 
 | Phase             | Cost (USD)   | Payback Metric        |
 |-------------------|--------------|-----------------------|
@@ -225,11 +225,11 @@ Tests cover:
 
 ## Try the Live Calculator
 
-**[rocketcontrol-latam.ai/en/calculator](https://rocketcontrol-latam.ai/en/calculator/)** — interactive version with visualization, available in English, Spanish, and Portuguese.
+**[circuito.ai/en/calculator](https://circuito.ai/en/calculator/)** — interactive version with visualization, available in English, Spanish, and Portuguese.
 
 ## About
 
-Built by [Rocket Control LATAM](https://rocketcontrol-latam.ai), the exclusive regional partner for TAIGA Dynamics AI-powered mining optimization in Latin America.
+Built by [Circuito AI](https://circuito.ai) — industrial AI for mining optimization in Latin America.
 
 ## License
 

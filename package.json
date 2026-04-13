@@ -1,7 +1,7 @@
 {
-  "name": "rocketcontrol-latam-mining-roi-calculator",
+  "name": "circuito-ai-mining-roi-calculator",
   "version": "1.0.0",
-  "description": "Open-source ROI calculator for AI-optimized mining operations (grinding + flotation). Based on TAIGA Dynamics field benchmarks.",
+  "description": "Open-source ROI calculator for AI-optimized mining operations (grinding + flotation). Based on Circuito AI field benchmarks.",
   "type": "module",
   "main": "calculator.mjs",
   "exports": {
@@ -17,13 +17,12 @@
     "grinding",
     "flotation",
     "mineral-processing",
-    "taiga-dynamics",
-    "rocket-control"
+    "circuito-ai"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/lulosol/rocketcontrol-latam-mining-roi-calculator.git"
   },
-  "homepage": "https://rocketcontrol-latam.ai/en/calculator/"
+  "homepage": "https://circuito.ai/en/calculator/"
 }

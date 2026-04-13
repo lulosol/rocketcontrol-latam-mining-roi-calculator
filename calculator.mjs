@@ -1,10 +1,10 @@
 /**
- * Rocket Control LATAM — Mining ROI Calculator Engine
+ * Circuito AI — Mining ROI Calculator Engine
  *
  * Estimates the incremental revenue and profit a mining operation can capture
- * by deploying TAIGA Dynamics AI optimization on grinding and flotation circuits.
+ * by deploying Circuito AI optimization on grinding and flotation circuits.
  *
- * Live calculator: https://rocketcontrol-latam.ai/en/calculator/
+ * Live calculator: https://circuito.ai/en/calculator/
  *
  * @license MIT
  * @see https://github.com/lulosol/rocketcontrol-latam-mining-roi-calculator
@@ -17,7 +17,7 @@ const TROY_OZ_IN_GRAMS = 31.1035;
 const LBS_IN_METRIC_TON = 2204.62;
 
 // ---------------------------------------------------------------------------
-// Benchmark assumptions (TAIGA Dynamics field data)
+// Benchmark assumptions (Circuito AI field data)
 // ---------------------------------------------------------------------------
 
 /** Throughput improvement from AI-optimized grinding (fraction, not %). */

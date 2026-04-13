@@ -7,7 +7,7 @@
  * Live calculator: https://circuito.ai/en/calculator/
  *
  * @license MIT
- * @see https://github.com/lulosol/rocketcontrol-latam-mining-roi-calculator
+ * @see https://github.com/lulosol/circuito-ai-mining-roi-calculator
  */
 
 // ---------------------------------------------------------------------------
